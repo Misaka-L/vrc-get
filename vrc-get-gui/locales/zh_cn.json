@@ -148,7 +148,6 @@
     "vpm repositories:hint:invalid header names": "标头名称不可用",
     "vpm repositories:hint:invalid header values": "标头值不可用",
     "vpm repositories:hint:duplicate headers": "标头名称重复",
-    "vpm repositories:dialog:headers": "标头:",
     "vpm repositories:dialog:downloading...": "下载存储库中...",
     "vpm repositories:dialog:already added": "该存储库已经添加.",
     "general:button:ok": "完成",
@@ -196,6 +195,6 @@
     "projects:toast:backup success": "备份创建成功",
     "settings:language": "语言(Language)",
     "settings:report issue": "报告问题",
-    "settings:button:open issue": "创建问题",
-  },
+    "settings:button:open issue": "创建问题"
+  }
 }
